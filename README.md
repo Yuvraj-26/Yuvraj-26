@@ -18,7 +18,7 @@
 
 ⚡  
 - Computer Science and AI graduate | University of Leeds
-- Data Enginner / Software Enginee
+- Data Enginner / Software Engineer
 
   
 💬 Reach me by email! 2604yuvraj@gmail.com
