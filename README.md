@@ -16,7 +16,8 @@
 <!--h1 without bottom border-->
 
 
-⚡  
+
+⚡ Info:
 - Computer Science and AI graduate | University of Leeds
 - Data Enginner / Software Engineer
 
