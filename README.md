@@ -21,4 +21,4 @@
 - Data Enginner / Software Engineer
 
   
-💬 Reach me by email! 2604yuvraj@gmail.com
+💬 Reach me by email! yuvrajmahida2611@gmail.com
