@@ -1,12 +1,5 @@
-<!--horizontal divider(gradiant)-->
+![image](https://github.com/Yuvraj-26/Yuvraj-26/assets/138712284/aef46799-299c-4b89-8a98-24595f9153ce)<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Yuvraj</h1></summary>
-  </ul>
-</div>
 
 <!--- snake -->
 <div align="center">
@@ -16,10 +9,19 @@
 <!--h1 without bottom border-->
 
 
+# Hello, I am Yuvraj 👋
 
-⚡ Info:
-- Computer Science and AI graduate | University of Leeds
-- Data Enginner / Software Engineer
+## Thanks for stopping by. Here's a little bit about myself...
 
-  
-💬 Reach me by email! yuvrajmahida2611@gmail.com
+
+- ⚡ Computer Science and AI Graduate | University of Leeds
+- 🔭 I’m currently working as a freelance data engineer
+   - 👯 I'm always open for freelance and contract based opportunitites
+   - 💬 I'm looking to collaborate on AI and Data projects
+   - 🤘 You can find various software/data engineering projects on my profile
+- 🧑🏻‍🏫 I am currenly learning
+   - Exporing Modern Data Stack (dbt, Airbyte, Databricks)
+   - Azure Cloud (Already worked with AWS & GCP)
+   - How to architectect better data systems
+
+Feel free to contact me by email or Linkedin: 2604yuvraj@gmail.com | https://www.linkedin.com/in/yuvrajmahida/ :sunglasses:
