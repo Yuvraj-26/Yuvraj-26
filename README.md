@@ -18,7 +18,8 @@
    - 💬 I'm looking to collaborate on AI and Data projects
    - 🤘 You can find various software/data engineering projects on my profile
 - 🧑🏻‍🏫 I am currenly learning
-   - Exporing Modern Data Stack (dbt, Airbyte, Databricks)
+   - GCP, AWS, Azure, Kubernetes
+   - Front-End: Typescript, React, Docker
    - Azure Cloud (Already worked with AWS & GCP)
    - How to architectect better data systems
 
