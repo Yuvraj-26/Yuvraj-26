@@ -1,4 +1,3 @@
-![image](https://github.com/Yuvraj-26/Yuvraj-26/assets/138712284/aef46799-299c-4b89-8a98-24595f9153ce)<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- snake -->
@@ -25,3 +24,6 @@
    - How to architectect better data systems
 
 Feel free to contact me by email or Linkedin: 2604yuvraj@gmail.com | https://www.linkedin.com/in/yuvrajmahida/ :sunglasses:
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
