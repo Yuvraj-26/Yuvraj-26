@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- snake -->
 <div align="center">
@@ -24,6 +23,4 @@
    - How to architectect better data systems
 
 Feel free to contact me by email or Linkedin: 2604yuvraj@gmail.com | https://www.linkedin.com/in/yuvrajmahida/ :sunglasses:
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
