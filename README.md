@@ -13,7 +13,7 @@
 
 
 - ⚡ Computer Science and AI Graduate | University of Leeds
-- 🔭 I’m currently working as a freelance data engineer
+- 🔭 I’m currently working as a freelance SE
    - 👯 I'm always open for freelance and contract based opportunitites
    - 💬 I'm looking to collaborate on AI and Data projects
    - 🤘 You can find various software/data engineering projects on my profile
