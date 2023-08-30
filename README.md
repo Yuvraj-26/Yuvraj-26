@@ -24,9 +24,9 @@ Feel free to contact me by email or Linkedin: 2604yuvraj@gmail.com | https://www
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-26&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-26&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-26&theme=react&hide&layout=compact)
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yuvraj-26&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=yuvraj-26&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
