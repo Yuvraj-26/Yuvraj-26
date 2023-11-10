@@ -14,7 +14,7 @@
    - 💬 I'm looking to collaborate on AI and Data projects
    - 🤘 You can find various software/data engineering projects on my profile
 - 🧑🏻‍🏫 I am currenly learning
-   - GCP, AWS, Azure, Kubernetes
+   - GCP, AWS, Azure, Snowflake
    - Front-End: Typescript, React, Docker
    - How to architectect better data systems
 
