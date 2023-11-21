@@ -10,7 +10,7 @@
 ## Thanks for stopping by. Here's a little bit about myself...
 
 - ⚡ Computer Science and AI Graduate | University of Leeds
-- 🔭 I’m currently working as a Junior Data Engineer
+- 🔭 I’m currently working as a Data Engineer
    - 💬 I'm looking to collaborate on AI and Data projects
    - 🤘 You can find various software/data engineering projects on my profile
 - 🧑🏻‍🏫 I am currenly learning
