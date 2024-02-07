@@ -12,7 +12,7 @@
 - ⚡ Computer Science and AI | University of Leeds
 - 🔭 Data Engineer
    - 💬 Interested in Software, Data, AI
-- 🧑🏻‍🏫 I am currenly learning
+- ⚡ Skilled In:
    - GCP, AWS, Azure, Snowflake
    - Front-End: Typescript, React, Docker
    - How to architectect better data systems
