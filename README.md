@@ -5,13 +5,13 @@
        alt="snake" /></a>
 </div>
 
-# Yuvraj M 
+# Yuvraj 
 
 ## About Me...
 
 - ⚡ Computer Science and AI | University of Leeds
 - 🔭 Data Engineer
-   - 💬 Interested in Software, Data, AI
+   - 💬 Software, Data Engineering, AI
 - ⚡ Skilled In:
    - GCP, AWS, Azure, Snowflake
    - Front-End: Typescript, React, Docker
