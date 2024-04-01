@@ -10,7 +10,7 @@
 - ⚡ Skilled In:
    - GCP, AWS, Azure, Snowflake
    - Front-End: Typescript, React, Docker
-   - How to architectect better data systems
+   - Architectecting better data systems
 
 Contact: 2604yuvraj@gmail.com | https://www.linkedin.com/in/yuvrajmahida/ :sunglasses:
 
